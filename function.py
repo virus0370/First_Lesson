@@ -5,4 +5,7 @@ def words():
         print(fifa[L])
 
 def Sportsmen():
-    pass
+    print(1+1+3*2)
+
+
+
